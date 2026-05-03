@@ -56,7 +56,7 @@ The following models were trained and evaluated:
 
 ---
 
-## 📊 Model Evaluation
+## Model Evaluation
 
 Performance was measured using:
 
@@ -72,6 +72,5 @@ Performance was measured using:
 
 
 
----
 
 ## 📂 Project Structure
